@@ -1,5 +1,5 @@
 {
-  "name": "imagemin-optipng",
+  "name": "@weus/imagemin-optipng",
   "version": "5.2.1",
   "description": "OptiPNG imagemin plugin",
   "license": "MIT",
@@ -42,7 +42,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-png": "^1.0.0",
-    "optipng-bin": "^4.0.0"
+    "@weus/optipng-bin": ">=4.0.0"
   },
   "devDependencies": {
     "ava": "*",
